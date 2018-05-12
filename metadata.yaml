@@ -1,0 +1,33 @@
+_repo: The-Story-of-the-Living-MachineActivity_16487
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Conn, H. W. (Herbert William)
+    alias: Conn, Herbert William
+    birthdate: 1859
+    gutenberg_agent_id: '1606'
+    url: http://www.gutenberg.org/2009/agents/1606
+description: ''
+gutenberg_bookshelf: Biology
+gutenberg_issued: '2005-08-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16487'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Biology'
+- !lcc 'QH'
+title: 'The Story of the Living Machine
+
+  A Review of the Conclusions of Modern Biology in Regard
+
+  to the Mechanism Which Controls the Phenomena of Living
+
+  Activity'
+url: http://www.gutenberg.org/ebooks/16487
